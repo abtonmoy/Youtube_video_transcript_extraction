@@ -1,0 +1,9 @@
+# Hide secrets
+my_sk.py
+
+# Ignore Python cache and environments
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
